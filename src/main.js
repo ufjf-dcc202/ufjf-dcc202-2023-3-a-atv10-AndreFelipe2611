@@ -1,7 +1,7 @@
-import { getMaria, getJoao, deJoaoParaMaria, deMariaParaJoao, setJoao, setMaria } from "./joaoEMaria.js";
+import { getMaria, getJoao, deJoaoParaMaria, setJoao, setMaria } from "./joaoEMaria";
 
 
-console.log("MAIN");
+console.log("main");
 setMaria(4);
 setJoao(2);
 
